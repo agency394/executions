@@ -5,6 +5,7 @@
 
 .navbar-brand
 {
+    height: 200px;
     position: absolute;
     width: 100%;
     left: 0;
