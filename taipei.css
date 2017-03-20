@@ -31,6 +31,10 @@
     color: white;
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
 .row {
 	min-height: 100px;
 }
