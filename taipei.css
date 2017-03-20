@@ -18,7 +18,7 @@
 }
 
 .navbar-default .navbar-toggle {
-    border-color: black;
+	border-color: none;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
