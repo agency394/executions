@@ -3,19 +3,9 @@
   	height: 100%;
 }
 
-html { 
-  background: url(tai pei cover.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='tai pei cover.jpg', sizingMethod='scale');
--ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
-
-.navbar-default .navbar-toggle {
-	border-color: none;
+img.resize{
+   max-width:50%;
+   max-height:50%;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
