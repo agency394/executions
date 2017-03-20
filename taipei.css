@@ -35,6 +35,10 @@
     background-color: black;
 }
 
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+
 .row {
 	min-height: 100px;
 }
