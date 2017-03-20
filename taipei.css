@@ -21,8 +21,8 @@
   border-color: #eb0500;
 }
 
-.navbar-default .navbar-nav > li {
-	color: #FFFFFF; 
+.navbar-default .navbar-nav >li > a {
+	color: #ffffff;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
