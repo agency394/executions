@@ -3,6 +3,17 @@
   	height: 100%;
 }
 
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='tai pei cover.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+
 .navbar-default .navbar-toggle {
 	border-color: none;
 }
@@ -39,9 +50,4 @@
 .navbar-default .navbar-nav> li >a {
     color: white;
 }
-
-.row {
-	min-height: 100px;
-}
-/*makes it so the least the row height can be is 100px*/
 
