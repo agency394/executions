@@ -3,6 +3,10 @@
   	height: 100%;
 }
 
+.img {
+	padding-top: 50px;
+}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: black;
 }
