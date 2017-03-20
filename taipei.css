@@ -17,12 +17,12 @@
 
 }
 
-.navbar-default .navbar-toggle .icon-bar {
-    background-color: black;
-}
-
 .navbar-default .navbar-toggle {
     border-color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
 }
 
 .navbar-default {
