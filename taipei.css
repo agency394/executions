@@ -22,8 +22,8 @@
 }
 
 .navbar-default {
-  background-color: none;
-  border-color: none;
+  background-color: white;
+  border-color: white;
 	
 }
 
@@ -33,6 +33,6 @@
 }
 
 .navbar-default .navbar-nav> li >a {
-    color: white;
+    color: black;
 }
 
