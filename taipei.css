@@ -7,12 +7,16 @@
 	padding-top: 25px;
 }
 
+.navbar-default {
+  background-color: white;
+  border-color: white;	
+}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: black;
 }
 
-.navbar-brand
-{
+ul.nav.navbar-nav {
     position: absolute;
     width: 100%;
     left: 0;
@@ -25,18 +29,5 @@
 }
 
 
-.navbar-default {
-  background-color: white;
-  border-color: white;
-	
-}
 
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #CC3B32;
-}
-
-.navbar-default .navbar-nav> li >a {
-    color: black;
-}
 
