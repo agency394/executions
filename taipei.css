@@ -6,9 +6,6 @@
 .padding {
 	padding-top: 25px;
 }
-navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: black;
-}
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: black;
@@ -25,8 +22,8 @@ navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
 
 .navbar-toggle {
     z-index:3;
-
 }
+
 
 .navbar-default {
   background-color: white;
