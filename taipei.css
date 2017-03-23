@@ -1,4 +1,4 @@
- body {
+body {
 	font-family: 'Nunito Sans', sans-serif;
   	height: 100%;
 }
@@ -7,16 +7,12 @@
 	padding-top: 25px;
 }
 
-.navbar-default {
-  background-color: white;
-  border-color: white;	
-}
-
 .navbar-default .navbar-toggle .icon-bar {
     background-color: black;
 }
 
-ul.nav.navbar-nav {
+.navbar-brand
+{
     position: absolute;
     width: 100%;
     left: 0;
@@ -26,8 +22,20 @@ ul.nav.navbar-nav {
 
 .navbar-toggle {
     z-index:3;
+
 }
 
+.navbar-default {
+  background-color: white;
+  border-color: white;
+	
+}
 
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #CC3B32;
+}
 
-
+.navbar-default .navbar-nav> li >a {
+    color: black;
+}
